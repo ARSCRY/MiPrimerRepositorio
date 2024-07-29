@@ -1,3 +1,4 @@
+#Bucles en R
 lista <- c(2, 8, 9)
 print(lista)
 
