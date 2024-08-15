@@ -5,7 +5,7 @@ etiqueta <- c("Manzanas", "Bananas", "Frambuesas", "Peras")
 pie(x, label = etiqueta, main = "Frutas", col = colores)
 
 #leyenda
-legend("bottomright", etiqueta, fill = colores)
+legend("topright", etiqueta, fill = colores)
 
 
 #La leyenda se puede posicionar como:
